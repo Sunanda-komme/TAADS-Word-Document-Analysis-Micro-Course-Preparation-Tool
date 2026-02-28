@@ -4,7 +4,7 @@ A document analysis application that processes Word documents (.docx) and PDFs t
 
 ## Features
 
-### Document Processing
+### Document Processing 
 - **Text Extraction**: Extracts all text elements from Word documents and PDFs, including text within tables
 - **Figure Extraction**: Extracts chart and figure images with automatic filtering by size
 - **Table Extraction**: Extracts structured table data with cell coordinates
